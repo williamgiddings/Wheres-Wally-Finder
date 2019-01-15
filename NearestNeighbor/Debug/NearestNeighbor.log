@@ -1,0 +1,12 @@
+﻿  Image.cpp
+  NearestNeighbor.cpp
+d:\users\wgidz\documents\projects\c++\nn\nearestneighbor\nearestneighbor.cpp(63): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\users\wgidz\documents\projects\c++\nn\nearestneighbor\nearestneighbor.cpp(64): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  ReadWriteFunctions.cpp
+d:\users\wgidz\documents\projects\c++\nn\nearestneighbor\readwritefunctions.cpp(40): warning C4101: 'j': unreferenced local variable
+  matrixClass.cpp
+d:\users\wgidz\documents\projects\c++\nn\nearestneighbor\matrixclass.cpp(58): warning C4018: '>': signed/unsigned mismatch
+d:\users\wgidz\documents\projects\c++\nn\nearestneighbor\matrixclass.cpp(89): warning C4018: '<=': signed/unsigned mismatch
+d:\users\wgidz\documents\projects\c++\nn\nearestneighbor\matrixclass.cpp(98): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  NearestNeighbor.vcxproj -> D:\Users\Wgidz\Documents\Projects\C++\NN\NearestNeighbor\Debug\NearestNeighbor.exe
